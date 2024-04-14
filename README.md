@@ -42,14 +42,15 @@ To run PDF Chat Website locally:
 
 ## Dependencies
 
-- streamlit
-  
-- google-generativeai
-- PyPDF2
-- python-dotenv
-- langchain
-- langchain_google_genai
-- faiss-cpu
+- *streamlit* - Python library used to build interactive web applications.
+
+- *google-generativeai* - Integration with Google's Generative AI to answer questions.
+
+- *PyPDF2* - Python library for reading PDF files.
+- *python-dotenv* - Python library to manage environment variables.
+- *langchain* - Library for natural language processing tasks.
+- *langchain_google_genai* - Integration with Google's Generative AI for advanced language processing tasks.
+- *faiss-cpu* - CPU version of FAISS for similarity search tasks.
 ## API
 
 #### Google Gemini API: 
